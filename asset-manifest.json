@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/protomynft/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/protomynft/static/js/main.f76fcb7f.chunk.js",
-    "main.js.map": "/protomynft/static/js/main.f76fcb7f.chunk.js.map",
+    "main.js": "/protomynft/static/js/main.a5f91af0.chunk.js",
+    "main.js.map": "/protomynft/static/js/main.a5f91af0.chunk.js.map",
     "runtime-main.js": "/protomynft/static/js/runtime-main.dba0bfa9.js",
     "runtime-main.js.map": "/protomynft/static/js/runtime-main.dba0bfa9.js.map",
     "static/js/2.3b3b24d6.chunk.js": "/protomynft/static/js/2.3b3b24d6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dba0bfa9.js",
     "static/js/2.3b3b24d6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f76fcb7f.chunk.js"
+    "static/js/main.a5f91af0.chunk.js"
   ]
 }
